@@ -185,11 +185,10 @@
 
 html, body {
   min-height: 100%;
-  min-weight: 100%;
 }
 
 body {
-  background-color: #1e1f26;
+  background-color: #d5d6de;
   
   font-family: 'Roboto', sans-serif;
 }
