@@ -6,7 +6,7 @@
 .list-block {
   float: left;
   margin: 1%;
-  width: 5.43333%;
+  width: 14.43333%;
 
   font-size: 0;
   overflow: hidden;
@@ -189,7 +189,7 @@ html, body {
 
 body {
   background-color: #1e1f26;
-  
+  height: 500px;
   font-family: 'Roboto', sans-serif;
 }
 
