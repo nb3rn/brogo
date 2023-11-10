@@ -189,7 +189,8 @@ html, body {
 
 body {
   background-color: #1e1f26;
-  weight: 500px;
+  weight: 30;
+  height: 100%;
   font-family: 'Roboto', sans-serif;
 }
 
