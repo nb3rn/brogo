@@ -185,6 +185,7 @@
 
 html, body {
   min-height: 100%;
+  min-weight: 100%;
 }
 
 body {
